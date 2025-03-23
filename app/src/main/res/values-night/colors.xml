@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark Theme Colors -->
+    <color name="keyboard_background">#1F1F1F</color>
+    <color name="key_background">#2D2D2D</color>
+    <color name="key_text">#FFFFFF</color>
+    <color name="key_border">#3D3D3D</color>
+    <color name="key_ripple">#33FFFFFF</color>
+    <color name="key_special_background">#383838</color>
+    <color name="key_icon_tint">#FFFFFF</color>
+</resources> 

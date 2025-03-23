@@ -7,4 +7,12 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <!-- Light Theme Colors -->
+    <color name="keyboard_background">#F5F5F5</color>
+    <color name="key_background">#FFFFFF</color>
+    <color name="key_text">#000000</color>
+    <color name="key_border">#E0E0E0</color>
+    <color name="key_ripple">#1A000000</color>
+    <color name="key_special_background">#EEEEEE</color>
+    <color name="key_icon_tint">#000000</color>
 </resources>
